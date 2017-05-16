@@ -3,7 +3,7 @@ Java code for telematics project in MOA
 
 ### Sequence of files
 - // Options
-    Not edited yet
+   - Not edited yet
     
 - // Internals
     Not edited yet
