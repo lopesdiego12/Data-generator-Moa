@@ -6,15 +6,15 @@ Java code for telematics project in MOA
    - Not edited yet
     
 - // Internals
-    Not edited yet
+   - Not edited yet
     
 - // Feature Definition 
-    Completed
+    - Completed
 
 - // Labeling functions
-    Almost there, edited until line 60
-    *What's maketrue Instance? Is it necessary for my project?
-    *What's ClassFunction Instance? Is it necessary for my project? 
+    - Almost there, edited until line 60
+    - *What's maketrue Instance? Is it necessary for my project?
+    - *What's ClassFunction Instance? Is it necessary for my project? 
     
 - // Generator Code
-   <font color="red">This is some text!</font> Not edited yet
+    - Not edited yet
