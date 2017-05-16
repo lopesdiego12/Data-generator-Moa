@@ -1,4 +1,4 @@
-# Data-generator-Moa
+# Data generator Moa
 Java code for telematics project in MOA
 
 ### Sequence of files
