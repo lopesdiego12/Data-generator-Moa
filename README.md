@@ -17,4 +17,4 @@ Java code for telematics project in MOA
     - *What's ClassFunction Instance? Is it necessary for my project? 
     
 - // Generator Code
-  ´<font color="red">- Not edited yet</font>´
+   - Not edited yet
