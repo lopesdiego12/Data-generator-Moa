@@ -18,6 +18,6 @@ Java code for telematics project in MOA
     
 - // Generator Code
   ´´´
-  <font-color="red">
+  <font color="red">
   - Not edited yet
 ´´´
