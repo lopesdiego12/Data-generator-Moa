@@ -54,6 +54,7 @@ Java code for telematics project in MOA
    
    TOTAL = 4
    PERFECT
+  
    TOTAL = 3
    REGULAR
    
