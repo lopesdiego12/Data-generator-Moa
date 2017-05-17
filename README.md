@@ -44,7 +44,7 @@ Java code for telematics project in MOA
 
    MAX  = 6 MIN - 0
    
-- 8 POSSIBILITIES
+- 8 POSSIBILITIES FOR DRIVER`S PROFILES
 
    TOTAL = 6
    PERFECT
