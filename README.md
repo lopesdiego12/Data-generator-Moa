@@ -21,7 +21,7 @@ Java code for telematics project in MOA
 
 ## KPU - Key performance indicator for our businness
 
-- VARIABLES
+- MAIN VARIABLES
    
    TOTAL - DRIVER PROFILE
    
