@@ -19,6 +19,7 @@
    var3 - road - 2
 
 - EXPRESSION
+
    total =  (var1 + var2 + var3) 
 
    max  = 6 min - 0
