@@ -1,4 +1,4 @@
-## KPU - Key performance indicator for our businness
+## KPI - Key performance indicator for our businness
 
 - MAIN VARIABLES
    
