@@ -2,46 +2,46 @@
 
 - MAIN VARIABLES
    
-   TOTAL - DRIVER PROFILE
+   total - driver profile
    
-   VAR1  - AVG VVELOCITY
+   var1  - avg vvelocity
    
-   VAR2 - CRASH
+   var2 - crash
    
-   VAR3 - ROAD
+   var3 - road
 
 - VARIABLE WEIGHT
   
-   VAR1  - AVG VVELOCITY - 1 
+   var1  - avg vvelocity - 1 
    
-   VAR2 - CRASH - 3
+   var2 - crash - 3
    
-   VAR3 - ROAD - 1
+   var3 - road - 1
 
 - EXPRESSION
-   TOTAL =  (VAR1 + VAR2 + VAR3) 
+   total =  (var1 + var2 + var3) 
 
-   MAX  = 6 MIN - 0
+   max  = 6 min - 0
    
 - 8 POSSIBILITIES FOR DRIVER`S PROFILES
 
-   TOTAL = 6
-   PERFECT
+   total = 6
+   perfect
    
-   TOTAL = 5
-   PERFECT
+   total = 5
+   perfect
    
-   TOTAL = 4
-   PERFECT
+   total = 4
+   perfect
   
-   TOTAL = 3
-   REGULAR
+   total = 3
+   regular
    
-   TOTAL = 2
-   POOR
+   total = 2
+   poor
    
-   TOTAL = 1
-   POOR
+   total = 1
+   poor
    
-   TOTAL = 0
-   POOR
+   total = 0
+   poor
