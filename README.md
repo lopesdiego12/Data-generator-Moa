@@ -23,6 +23,8 @@ Java code for telematics project in MOA
 
 - VARIABLES
    TOTAL - DRIVER PROFILE
+   
+   
    VAR1  - AVG VVELOCITY
    VAR2 - CRASH
    VAR3 - ROAD
