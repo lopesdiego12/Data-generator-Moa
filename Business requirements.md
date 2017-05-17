@@ -16,7 +16,7 @@
    
    var2 - crash - 3
    
-   var3 - road - 1
+   var3 - road - 2
 
 - EXPRESSION
    total =  (var1 + var2 + var3) 
