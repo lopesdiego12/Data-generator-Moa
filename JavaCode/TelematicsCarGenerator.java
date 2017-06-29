@@ -2,6 +2,7 @@
  *
  * @author Diego Lopes
  * @version 1.0
+ * Telematics Car Stream Generator for MOA
  */
 package moa.streams.generators;
  
@@ -22,11 +23,7 @@ import moa.options.AbstractOptionHandler;
 import moa.streams.InstanceStream;
 import moa.tasks.TaskMonitor;
  
-/**
- *
- * @author Diego Lopes
- * @version 1.0
- */
+
 public class TelematicCarGenerators extends AbstractOptionHandler implements InstanceStream {
  
     /*
@@ -44,8 +41,8 @@ public class TelematicCarGenerators extends AbstractOptionHandler implements Ins
     protected ClassFunction classFunction;
     /*
     * FEATURE DEFINITIONS
-    12 campos no total - tem 8 e faltam esses 4 date, email, longitude, latitude
-     */
+    8 Fields + 1 Class
+    */
     protected static String caridValues[] = {"1",
         "2",
         "3",
